@@ -11,3 +11,7 @@ is a graphical user interface (GUI) developed in Python using the tkinter and ma
 - **Requirements:** Ensure you have tkinter, matplotlib, numpy, and customtkinter installed.
 - **Execution:** Run the Python script to launch the GUI.
 - **Controls:** Use the input fields and dropdown menus to adjust the sonar parameters as needed
+
+## How the app looks like
+
+![image](https://github.com/user-attachments/assets/42cb5043-db9d-4034-8d7f-ce944f18d0ee)
