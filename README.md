@@ -14,4 +14,5 @@ is a graphical user interface (GUI) developed in Python using the tkinter and ma
 
 ## How the app looks like
 
-![image](https://github.com/user-attachments/assets/42cb5043-db9d-4034-8d7f-ce944f18d0ee)
+![image](https://github.com/user-attachments/assets/059dee10-4f08-4354-9909-7b8af2a59f2c)
+
