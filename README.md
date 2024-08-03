@@ -16,3 +16,6 @@ is a graphical user interface (GUI) developed in Python using the tkinter and ma
 
 ![image](https://github.com/user-attachments/assets/059dee10-4f08-4354-9909-7b8af2a59f2c)
 
+## How the circuit looks like
+
+![sonar circuit](https://github.com/user-attachments/assets/5154bc56-3c75-43e3-ba5a-4c7693f96b07)
